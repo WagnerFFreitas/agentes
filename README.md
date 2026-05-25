@@ -1,11 +1,11 @@
 # 🧠 Biblioteca de Skills para Agentes IA
 
-## 📌 **Finalidade:** Centralizar guias, prompts e referências para usar skills de IA de forma profissional em projetos Web + SaaS (React + PHP + Banco de Dados) + Python.  
+### 📌 **Finalidade:** Centralizar guias, prompts e referências para usar skills de IA de forma profissional em projetos Web + SaaS (React + PHP + Banco de Dados) + Python.  
 
 🔄 **Última atualização:** Maio 2026  
 👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
-
 ---
+
 ## 🗺️ Estrutura de Pastas
 ```text
 D:\agentes
@@ -76,11 +76,12 @@ D:\agentes
 
 Ative todas as skills instaladas com foco em qualidade production-ready.
 Contexto: Projeto Web/SaaS com React (frontend), PHP (backend), PostgreSQL (banco) e scripts Python.
+
 Priorize:
-    • alirezarezvani (frontend + database)
-    • PeterHdd + Antigravity (arquitetura e boas práticas)
-    • web-quality-audit (polimento final)
-    • web-search + fetch (pesquisa técnica e docs oficiais)
+   alirezarezvani (frontend + database)
+   PeterHdd + Antigravity (arquitetura e boas práticas)
+   web-quality-audit (polimento final)
+   web-search + fetch (pesquisa técnica e docs oficiais)
 
 Trabalhe como Senior Fullstack Engineer:
     • Seja prático e direto
@@ -176,13 +177,13 @@ Vamos começar:
 
 ## 💡 Dicas de Produtividade
 
-- ✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
-- ✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
-- ✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
-- ✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
-- ✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
+✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
+✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
+✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
+✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
+✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
 
-> "Quais skills você recomenda para esta tarefa específica?"
+#### "Quais skills você recomenda para esta tarefa específica?"
 ---
 
 ## 🔄 Manutenção da Biblioteca

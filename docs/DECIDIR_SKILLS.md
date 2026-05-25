@@ -25,20 +25,20 @@
 ## 🔍 Fluxo de Decisão em 3 Passos
 
 1. **Qual é o objetivo agora?**
-  - Frontend? → Vá para *UI/UX*
-  - Banco de dados? → Vá para *Modelagem*
-  - Feature completa? → Vá para *Fullstack*
-  - Script Python? → Vá para *Backend/Automação*
-  - Segurança? → Vá para *OWASP*
+  Frontend? → Vá para *UI/UX*
+  Banco de dados? → Vá para *Modelagem*
+  Feature completa? → Vá para *Fullstack*
+  Script Python? → Vá para *Backend/Automação*
+  Segurança? → Vá para *OWASP*
 
 2. **Qual nível de qualidade preciso?**
-  - **Rápido:** 1 a 2 skills
-  - **Profissional:** 3 a 5 skills combinadas
-  - **Produção:** Todas as relevantes + auditoria final (`web-quality-audit`)
+  **Rápido:** 1 a 2 skills
+  **Profissional:** 3 a 5 skills combinadas
+  **Produção:** Todas as relevantes + auditoria final (`web-quality-audit`)
 
 3. **Quais skills combinam melhor com a tarefa?**
-  - Consulte a tabela abaixo.
-  - Se estiver em dúvida, use o **Prompt Mestre** e peça recomendação.
+  Consulte a tabela abaixo.
+  Se estiver em dúvida, use o **Prompt Mestre** e peça recomendação.
 ---
 
 ## 📊 Tabela de Decisão Rápida
@@ -59,12 +59,12 @@
 
 ## 🧭 Regras Práticas de Escolha
 
-- Use **1 a 2 skills** quando a tarefa for pequena, isolada ou exploratória.
-- Use **3 a 5 skills** quando a entrega envolver interface, backend, banco ou qualidade final.
-- Use **auditoria final** (`web-quality-audit`) quando a mudança for para produção, afetar UX, performance, segurança ou fluxo crítico.
-- Use **`alirezarezvani`** como curinga para tarefas que combinam frontend e banco de dados.
-- Use **`PeterHdd`** como base fullstack para features completas, backend e ferramentas Python.
-- Use **`web-quality-audit`** antes de finalizar páginas, componentes visuais e fluxos importantes.
+Use **1 a 2 skills** quando a tarefa for pequena, isolada ou exploratória.
+Use **3 a 5 skills** quando a entrega envolver interface, backend, banco ou qualidade final.
+Use **auditoria final** (`web-quality-audit`) quando a mudança for para produção, afetar UX, performance, segurança ou fluxo crítico.
+Use **`alirezarezvani`** como curinga para tarefas que combinam frontend e banco de dados.
+Use **`PeterHdd`** como base fullstack para features completas, backend e ferramentas Python.
+Use **`web-quality-audit`** antes de finalizar páginas, componentes visuais e fluxos importantes.
 ---
 
 ## 🚀 Prompt Mestre Personalizado
@@ -72,9 +72,9 @@
 Ative todas as skills instaladas com foco em projetos Web + SaaS (React, PHP, Banco de Dados) e ferramentas Python.
 
 Priorize especialmente:
-  • alirezarezvani (frontend + database)
-  • PeterHdd + Antigravity (boas práticas gerais)
-  • frontend-design + web-quality-audit (qualidade visual e técnica)
+  alirezarezvani (frontend + database)
+  PeterHdd + Antigravity (boas práticas gerais)
+  frontend-design + web-quality-audit (qualidade visual e técnica)
 
 Trabalhe como Senior Fullstack Developer especializado em SaaS.
 Seja prático, escalável, production-ready e detalhista.
