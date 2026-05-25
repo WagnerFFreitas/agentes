@@ -5,10 +5,9 @@
 > 🔄 **Última atualização:** Maio 2026  
 > 👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
 
----
-
 ## 🗺️ Estrutura de Pastas
 
+```text
 D:\agentes
 ├── .agent/                         # Configs gerais de agentes
 ├── .agents/                        # Skills e recursos compartilhados entre agentes
@@ -49,6 +48,10 @@ D:\agentes
 ├── skills-lock.json                # 🔒 Registro das skills PeterHdd
 ├── README.md                       # 📖 Índice master do projeto
 └── WARP.md                         # 🌀 Contexto claude-mem
+
+```
+
+```markdown
 
 ## 📂 Arquivos Principais (docs\)
 
