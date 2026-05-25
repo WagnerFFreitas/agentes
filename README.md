@@ -214,6 +214,6 @@ Vamos começar:
 
 ## 🎯 Dica Final:
 
--✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
+- ✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
 
 ---

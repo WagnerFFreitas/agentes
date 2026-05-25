@@ -91,10 +91,10 @@ Tarefa:
 
 ## 💡 Dicas de Ouro
 
--✅ Sempre combine 3+ skills em entregas profissionais.
--✅ Use web-quality-audit ao finalizar para garantir polimento técnico e visual.
--✅ alirezarezvani é um curinga forte para frontend + banco de dados.
--✅ Para Python, PeterHdd costuma ser suficiente, a menos que a tarefa seja muito específica.
--✅ Quando não souber qual usar, pergunte ao agente: `"Quais skills você recomenda para esta tarefa específica?"`
+- ✅ Sempre combine 3+ skills em entregas profissionais.
+- ✅ Use web-quality-audit ao finalizar para garantir polimento técnico e visual.
+- ✅ alirezarezvani é um curinga forte para frontend + banco de dados.
+- ✅ Para Python, PeterHdd costuma ser suficiente, a menos que a tarefa seja muito específica.
+- ✅ Quando não souber qual usar, pergunte ao agente: `"Quais skills você recomenda para esta tarefa específica?"`
 
 ---
