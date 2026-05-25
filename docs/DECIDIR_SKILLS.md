@@ -81,6 +81,7 @@ Seja prático, escalável, production-ready e detalhista.
 
 Tarefa:
   [descreva aqui o que precisa ser feito]
+  
 ---
 
 ## 💡 Dicas de Ouro
