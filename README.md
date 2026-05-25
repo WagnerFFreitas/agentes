@@ -51,21 +51,18 @@ D:\agentes
 
 ```
 
-```markdown
-
 ## 📂 Arquivos Principais (docs\)
 
-```markdown
-| :------------------------ | :-------------------------------------------------------- | :---------------------------------------- |
+
 | Arquivo                   | Finalidade                                                | Link Rápido                               |
-| :------------------------ | :-------------------------------------------------------- | :---------------------------------------- |
+| :--- | :--- | :--- |
 | SKILLS_LISTA.md           | 📖 Catálogo: o que cada skill faz, quando e como usar     | [Abrir](./docs/SKILLS_LISTA.md)           |
 | DECIDIR_SKILLS.md         | 🎯 Fluxo em 3 passos + tabela de combinações por tarefa   | [Abrir](./docs/DECIDIR_SKILLS.md)         |
 | COMO_USAR_SKILLS.md       | 🛠️ Ativação no Cursor, Claude Code, Antigravity, Continue | [Abrir](./docs/COMO_USAR_SKILLS.md)       |
 | PROMPTS_PRONTOS.md        | ⚡ Prompts genéricos: Frontend, Fullstack, Segurança, DB  | [Abrir](./docs/PROMPTS_PRONTOS.md)        |
 | PROMPTS_SaaS_React_PHP.md | 🚀 Prompts especializados para React + PHP + SaaS + Python| [Abrir](./docs/PROMPTS_SaaS_React_PHP.md) |
 | REFERENCIAS.md            | 🔗 Lista de repositórios e comandos de instalação         | [Abrir](./docs/REFERENCIAS.md)            |
-| :------------------------ | :-------------------------------------------------------- | :---------------------------------------- |
+
 
 ## 🚀 Quick Start (Comece Aqui)
 
