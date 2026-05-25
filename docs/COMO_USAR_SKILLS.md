@@ -2,7 +2,7 @@
 
 ## Guia prático de ativação e uso das skills nas suas IDEs.
 
-> **Perfil:** Web + SaaS (React, PHP, Banco de Dados) + Ferramentas Python
+### **Perfil:** Web + SaaS (React, PHP, Banco de Dados) + Ferramentas Python
 > **Última atualização:** Maio 2026  
 > **Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
 
