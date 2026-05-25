@@ -8,6 +8,7 @@
 👤 **Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
 
 🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
+
 ---
 
 ## 💻 No VSCode, Cursor, Claude Code, Continue & Windsurf
@@ -20,12 +21,14 @@ No chat da IDE, digite `@` seguido do nome da skill:
    `@web-quality-audit`
    `@database-designer`
    `@alirezarezvani`
+
 ---
 
 ### Método 2: Menção Direta no Prompt
 
    Cite a skill naturalmente no início da conversa:
    Ative frontend-design, theme-factory e web-quality-audit para esta tarefa.
+
 ---
 
 ### Método 3: Prompt Mestre (Início da Sessão)
@@ -37,6 +40,7 @@ No chat da IDE, digite `@` seguido do nome da skill:
    Mantenha o contexto ativo durante toda a conversa.
 
 ---
+
 ### 🌀 No Antigravity
 
 #### Ativação Geral
@@ -61,6 +65,7 @@ No chat da IDE, digite `@` seguido do nome da skill:
 | Windsurf / Kiro | Menção direta no prompt            | "Ative alirezarezvani"   |
 
 ---
+
 ### 💡Dicas de Ouro
 
 -✅ Sempre comece a sessão ativando as skills relevantes.
