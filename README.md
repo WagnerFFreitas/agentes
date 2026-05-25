@@ -60,6 +60,7 @@ D:\agentes
 | PROMPTS_SaaS_React_PHP.md | 🚀 Prompts especializados para React + PHP + SaaS + Python| [Abrir](./docs/PROMPTS_SaaS_React_PHP.md) |
 | REFERENCIAS.md            | 🔗 Lista de repositórios e comandos de instalação         | [Abrir](./docs/REFERENCIAS.md)            |
 
+---
 ## 🚀 Quick Start (Comece Aqui)
 
    1. Identifique seu objetivo → Abra DECIDIR_SKILLS.md e encontre sua tarefa na tabela.
@@ -67,6 +68,7 @@ D:\agentes
    3. Ative as skills no chat → Use @nome-da-skill (Cursor/Claude) ou mencione no prompt.
    4. Cole + adapte → Substitua [ ] pelo seu contexto real.
    5. Finalize com qualidade → Sempre rode web-quality-audit antes de entregar.
+---
 
 ## Prompt Mestre Universal
 
@@ -88,6 +90,7 @@ Trabalhe como Senior Fullstack Engineer:
 
 Vamos começar:
     [descreva sua tarefa aqui]
+---
 
 ## 🔌 Instalação: npx vs Clone Local
 
@@ -95,6 +98,7 @@ Vamos começar:
 | :--- | :--- | :--- |
 | Remoto (npx) | Padrão recomendado. Sempre atualizado, zero manutenção.   | `npx skills add PeterHdd/agent-skills --all`                            |
 | Clone Local  | Offline, modificação de skills, controle de versão exato. | `git clone https://github.com/user/repo D:\\agentes\\repos\\ + symlink` |
+---
 
 ## 📖 Guia completo de repositórios: docs/REFERENCIAS.md
 
@@ -113,6 +117,7 @@ Vamos começar:
    uipro init --ai all
    6. Anthropic Oficiais — Pesquisa, Docs & UI Moderna
    npx skills add anthropics/skills --skill web-search --skill fetch --skill frontend-design --skill theme-factory -y -g
+---
 
 ## 🏆 Top 5 Coleções Mais Recomendadas
 
@@ -123,6 +128,7 @@ Vamos começar:
 |   3º       | Fullstack Profissional | alirezarezvani/claude-skills + Vercel + Anthropic | ⭐⭐⭐⭐⭐  |
 |   4º       | Segurança              | Eyadkelleh/awesome-claude-skills-security         | ⭐⭐⭐⭐     |
 |   5º       | Qualidade Frontend     | web-quality-audit + core-web-vitals               | ⭐⭐⭐⭐     |
+---
 
 ## 🔗 Repositórios de Referência (Nomes Curtos)
 
@@ -136,6 +142,7 @@ Vamos começar:
 | anthropics/skills                  | Oficial Anthropic                                | Clone + npx skills add                         |
 | vercel-labs/agent-skills           | Focado em Next.js e ecossistema Vercel           | npx skills add vercel-labs/agent-skills        |
 | ComposioHQ/awesome-codex-skills    | Curadoria para Codex/OpenAI                      | npx skills add ComposioHQ/awesome-codex-skills |
+---
 
 ## 🎨 Frontend & UI/UX
 
@@ -145,6 +152,7 @@ Vamos começar:
 | nextlevelbuilder/ui-ux-pro-max-skill | UI/UX premium, motion, conversão               | npm install -g uipro-cli + uipro init --ai all |
 | Owl-Listener/designer-skills         | Design system e Figma                          | Clone                                          |
 | VoltAgent/awesome-design-md          | Coleção design/frontend                        | Clone                                          | 
+---
 
 ## 🗄️ Banco de Dados
 
@@ -154,6 +162,7 @@ Vamos começar:
 | supabase/agent-skills                | Skills para Supabase e PostgreSQL              | Clone                                          |
 | neondatabase/agent-skills            | Otimização para Neon Postgres                  | Clone                                          |
 | upstash/context7                     | Contexto e memória com Redis                   | npx ctx7 setup                                 |
+---
 
 ## 🔐 Segurança & Outros
 
@@ -163,6 +172,7 @@ Vamos começar:
 | asgeirtj/system_prompts_leaks             | Previne vazamento de prompts              | Clone                                          |
 | thedotmack/claude-mem                     | Memória persistente para Claude           | npx claude-mem install                         |
 | kepano/obsidian-skills                    | Integração com Obsidian                   | Clone                                          |
+---
 
 ## 💡 Dicas de Produtividade
 
@@ -173,6 +183,7 @@ Vamos começar:
 - ✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
 
 > "Quais skills você recomenda para esta tarefa específica?"
+---
 
 ## 🔄 Manutenção da Biblioteca
 
@@ -183,6 +194,7 @@ Vamos começar:
 | Validar skills-lock.json | Após instalar skills | Use npx jsonlint skills-lock.json --fix                |
 | Backup da pasta docs\    | Semanal              | Use script backup-ai.bat (sugestão)                    |
 | Atualizar repositórios   | Trimestral           | Consulte REFERENCIAS.md e verifique releases no GitHub |
+---
 
 ## 🎯 Dica Final:
 

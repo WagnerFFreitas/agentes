@@ -6,7 +6,6 @@
 👤 **Local:** `D:\agentes\docs\DECIDIR_SKILLS.md`
 
 🔗 **Veja também:** [SKILLS_LISTA.md](./docs/SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./docs/PROMPTS_PRONTOS.md) | [PROMPTS_SaaS_React_PHP.md](./PROMPTS_SaaS_React_PHP.md)
-
 ---
 
 ## 🏆 Stack Recomendada (Top Picks)
@@ -20,8 +19,7 @@
 | **Banco de Dados**   | `PostgreSQL` (via `alirezarezvani` ou `planetscale`) | Modelagem robusta e queries otimizadas.                  |
 | **Qualidade Final**  | `web-quality-audit`                                  | Obrigatório antes de qualquer commit em produção.        |
 
-- 💡 **Dica Rápida:** Se estiver na dúvida, ative **`PeterHdd` + `alirezarezvani` + `web-quality-audit`**. Essa tríade cobre arquitetura, implementação moderna e auditoria.
-
+💡 **Dica Rápida:** Se estiver na dúvida, ative **`PeterHdd` + `alirezarezvani` + `web-quality-audit`**. Essa tríade cobre arquitetura, implementação moderna e auditoria.
 ---
 
 ## 🔍 Fluxo de Decisão em 3 Passos
@@ -41,7 +39,6 @@
 3. **Quais skills combinam melhor com a tarefa?**
   - Consulte a tabela abaixo.
   - Se estiver em dúvida, use o **Prompt Mestre** e peça recomendação.
-
 ---
 
 ## 📊 Tabela de Decisão Rápida
@@ -58,7 +55,6 @@
 | **Performance + Core Web Vitals** | `web-quality-audit` + `core-web-vitals` + `alirezarezvani`                | "Otimize com web-quality-audit + core-web-vitals"              |
 | **Testes E2E (Playwright)**       | `webapp-testing` + `playwright`                                           | "Crie testes com webapp-testing"                               |
 | **Segurança / OWASP**             | `security` (Eyadkelleh) + `threat-model`                                  | "Ative security skills para análise OWASP"                     |
-
 ---
 
 ## 🧭 Regras Práticas de Escolha
@@ -69,7 +65,6 @@
 - Use **`alirezarezvani`** como curinga para tarefas que combinam frontend e banco de dados.
 - Use **`PeterHdd`** como base fullstack para features completas, backend e ferramentas Python.
 - Use **`web-quality-audit`** antes de finalizar páginas, componentes visuais e fluxos importantes.
-
 ---
 
 ## 🚀 Prompt Mestre Personalizado
@@ -86,6 +81,7 @@ Seja prático, escalável, production-ready e detalhista.
 
 Tarefa:
   [descreva aqui o que precisa ser feito]
+---
 
 ## 💡 Dicas de Ouro
 

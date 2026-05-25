@@ -8,7 +8,6 @@
 👤 **Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
 
 🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
-
 ---
 
 ## 💻 No VSCode, Cursor, Claude Code, Continue & Windsurf
@@ -21,11 +20,13 @@
    - `@web-quality-audit`
    - `@database-designer`
    - `@alirezarezvani`
+---
 
 ### Método 2: Menção Direta no Prompt
 
    - Cite a skill naturalmente no início da conversa:
    - Ative frontend-design, theme-factory e web-quality-audit para esta tarefa.
+---
 
 ### Método 3: Prompt Mestre (Início da Sessão)
 
@@ -35,6 +36,7 @@
    Priorize: alirezarezvani, PeterHdd, Antigravity e web-quality-audit.
    Mantenha o contexto ativo durante toda a conversa.
 
+---
 ### 🌀 No Antigravity
 
 #### Ativação Geral
@@ -58,6 +60,7 @@
 | Antigravity     | Comando de modo ou flag            | Antigravity Mode FULL ON |
 | Windsurf / Kiro | Menção direta no prompt            | "Ative alirezarezvani"   |
 
+---
 ### 💡Dicas de Ouro
 
 ✅ Sempre comece a sessão ativando as skills relevantes.
