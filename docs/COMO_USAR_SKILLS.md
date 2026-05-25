@@ -13,7 +13,7 @@
 
 ### Método 1: Ativação via `@` (Recomendado)
 
-> No chat da IDE, digite `@` seguido do nome da skill:
+- No chat da IDE, digite `@` seguido do nome da skill:
 
    - `@frontend-design`
    - `@web-quality-audit`
@@ -22,7 +22,7 @@
 
 ### Método 2: Menção Direta no Prompt
 
-> Cite a skill naturalmente no início da conversa:
+   - Cite a skill naturalmente no início da conversa:
 
    - Ative frontend-design, theme-factory e web-quality-audit para esta tarefa.
 
