@@ -5,7 +5,7 @@
 🔄 **Última atualização:** Maio 2026  
 👤 **Local:** `D:\agentes\docs\DECIDIR_SKILLS.md`
 
--  🔗 **Veja também:** [SKILLS_LISTA.md](./docs/SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./docs/PROMPTS_PRONTOS.md) | [PROMPTS_SaaS_React_PHP.md](./PROMPTS_SaaS_React_PHP.md)
+🔗 **Veja também:** [SKILLS_LISTA.md](./docs/SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./docs/PROMPTS_PRONTOS.md) | [PROMPTS_SaaS_React_PHP.md](./PROMPTS_SaaS_React_PHP.md)
 
 ---
 
