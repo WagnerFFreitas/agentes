@@ -1,0 +1,60 @@
+
+{
+  "version": 1,
+  "skills": {
+    "engineering-backend-architect": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-backend-architect/SKILL.md",
+      "computedHash": "c0c6c0a12194b0a1d41dcc3776012436b3e79c073ca794ac39936ae3eb644e71"
+    },
+    "engineering-devops-automator": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-devops-automator/SKILL.md",
+      "computedHash": "4fb9f07d6990cf9136b4d0bd72ffe7b66a3bae855c97d4dda94581859bc6e98c"
+    },
+    "engineering-frontend-developer": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-frontend-developer/SKILL.md",
+      "computedHash": "e3cdd7d3ea248e87155d18f4499482ac5675055343858ddc19e67f5bcc3d7ed1"
+    },
+    "engineering-ml-engineer": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-ml-engineer/SKILL.md",
+      "computedHash": "2b8f96c655fa46e771546863dbecac53fa4146ef75737c853ea9540f92f08c96"
+    },
+    "engineering-mobile-app-builder": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-mobile-app-builder/SKILL.md",
+      "computedHash": "f7b33afb6da710e291faca58d69afb3d7b7b5af1edd6ccdfbd216ca66137e875"
+    },
+    "engineering-rapid-prototyper": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-rapid-prototyper/SKILL.md",
+      "computedHash": "fab59015b309b0cbc08a5c92cce2e648c3f4fa9cd038a8b515bb0e183b0c1294"
+    },
+    "engineering-security-engineer": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-security-engineer/SKILL.md",
+      "computedHash": "e294408d23038bf723e96c477f06b3cb3b0383d6a847eed57d72f9cf9bc46690"
+    },
+    "engineering-senior-developer": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-senior-developer/SKILL.md",
+      "computedHash": "aa4e7fe5d367d0e3ff41a5e98b1f84a904a255d595c19e3be410be12f13b3173"
+    },
+    "engineering-system-designer": {
+      "source": "PeterHdd/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering-system-designer/SKILL.md",
+      "computedHash": "d2ed129178a0fd14ca244bccdc892edd09e764e58581d81cd55eac16b75ed51e"
+    }
+  }
+}
