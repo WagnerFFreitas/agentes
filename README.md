@@ -98,7 +98,7 @@ D:\agentes
 
 | Método        | Quando usar                                              | Comando Exemplo                                                    |
 | :--- | :--- | :--- |
-| Remoto (npx)  | Padrão recomendado. Sempre atualizado, zero manutenção.  | npx skills add PeterHdd/agent-skills --all           ----          |
+| Remoto (npx)  | Padrão recomendado. Sempre atualizado, zero manutenção.  | npx skills add PeterHdd/agent-skills --all                         |
 | Clone Local   | Offline, modificação de skills, controle de versão exato.| git clone https://github.com/user/repo D:\agentes\repos\ + symlink |
 
 ## 📖 Guia completo de repositórios: docs/REFERENCIAS.md
@@ -156,29 +156,24 @@ D:\agentes
 | nextlevelbuilder/ui-ux-pro-max-skill | UI/UX premium, motion, conversão               | npm install -g uipro-cli + uipro init --ai all |
 | Owl-Listener/designer-skills         | Design system e Figma                          | Clone                                          |
 | VoltAgent/awesome-design-md          | Coleção design/frontend                        | Clone                                          | 
-|--------------------------------------|------------------------------------------------|------------------------------------------------|
 
 ## 🗄️ Banco de Dados
 
-| :----------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
 | Repositório                          | Descrição                                      | Instalação                                     |
-| :----------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
+| :--- | :--- | :--- |
 | planetscale/database-skills          | Boas práticas para MySQL/PlanetScale           | npx skills add planetscale/database-skills     |
 | supabase/agent-skills                | Skills para Supabase e PostgreSQL              | Clone                                          |
 | neondatabase/agent-skills            | Otimização para Neon Postgres                  | Clone                                          |
 | upstash/context7                     | Contexto e memória com Redis                   | npx ctx7 setup                                 |
-| :----------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
 
 ## 🔐 Segurança & Outros
 
-| :---------------------------------------- | :---------------------------------------- | :--------------------------------------------- |
 | Repositório                               | Descrição                                 | Instalação                                     |
-| :---------------------------------------- | :---------------------------------------- | :--------------------------------------------- |
+| :--- | :--- | :--- |
 | Eyadkelleh/awesome-claude-skills-security | OWASP, pentest, API security              | Clone                                          |
 | asgeirtj/system_prompts_leaks             | Previne vazamento de prompts              | Clone                                          |
 | thedotmack/claude-mem                     | Memória persistente para Claude           | npx claude-mem install                         |
 | kepano/obsidian-skills                    | Integração com Obsidian                   | Clone                                          |
-| :---------------------------------------- | :---------------------------------------- | :--------------------------------------------- |
 
 ## 💡 Dicas de Produtividade
 
@@ -192,15 +187,13 @@ D:\agentes
 
 ## 🔄 Manutenção da Biblioteca
 
-| :----------------------- | :------------------- | :----------------------------------------------------- |
 | Tarefa                   | Frequência           | Como Fazer                                             |
-| :----------------------- | :------------------- | :----------------------------------------------------- | 
+| :--- | :--- | :--- |
 | Adicionar nova skill     | Conforme instalar    | Atualize SKILLS_LISTA.md e REFERENCIAS.md              |
 | Revisar combinações      | Mensal               | Atualize DECIDIR_SKILLS.md com novas descobertas       |
 | Validar skills-lock.json | Após instalar skills | Use npx jsonlint skills-lock.json --fix                |
 | Backup da pasta docs\    | Semanal              | Use script backup-ai.bat (sugestão)                    |
 | Atualizar repositórios   | Trimestral           | Consulte REFERENCIAS.md e verifique releases no GitHub |
-| :----------------------- | :------------------- | :----------------------------------------------------- |
 
 # 🎯 Dica Final:
 
