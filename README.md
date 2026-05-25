@@ -96,10 +96,10 @@ D:\agentes
 
 ## 🔌 Instalação: npx vs Clone Local
 
-| Método        | Quando usar                                              | Comando Exemplo                                                    |
+| Método       | Quando usar                                               | Comando Exemplo                                                         |
 | :--- | :--- | :--- |
-| Remoto (npx)  | Padrão recomendado. Sempre atualizado, zero manutenção.  | npx skills add PeterHdd/agent-skills --all                         |
-| Clone Local   | Offline, modificação de skills, controle de versão exato.| git clone https://github.com/user/repo D:\agentes\repos\ + symlink |
+| Remoto (npx) | Padrão recomendado. Sempre atualizado, zero manutenção.   | `npx skills add PeterHdd/agent-skills --all`                            |
+| Clone Local  | Offline, modificação de skills, controle de versão exato. | `git clone https://github.com/user/repo D:\\agentes\\repos\\ + symlink` |
 
 ## 📖 Guia completo de repositórios: docs/REFERENCIAS.md
 
@@ -126,9 +126,8 @@ D:\agentes
 
 ## 🏆 Top 5 Coleções Mais Recomendadas
 
-
 | Posição    | Categoria              | Repositório Principal                             | Prioridade    |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 |   1º       | Skills Gerais          | PeterHdd/agent-skills + Antigravity               | ⭐⭐⭐⭐⭐  |
 |   2º       | Frontend & UI/UX       | addyosmani/web-quality-skills + UI/UX Pro Max     | ⭐⭐⭐⭐⭐  |
 |   3º       | Fullstack Profissional | alirezarezvani/claude-skills + Vercel + Anthropic | ⭐⭐⭐⭐⭐  |
