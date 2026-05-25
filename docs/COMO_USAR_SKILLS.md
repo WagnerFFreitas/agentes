@@ -63,8 +63,8 @@ No chat da IDE, digite `@` seguido do nome da skill:
 ---
 ### 💡Dicas de Ouro
 
-✅ Sempre comece a sessão ativando as skills relevantes.
-✅ Combine 3+ skills para resultados exponencialmente melhores.
-✅ Use @ no Cursor/Claude Code para ativação instantânea.
-✅ Se o agente "esquecer" o contexto, repita o Prompt Mestre.
-✅ Mantenha este arquivo aberto (Ctrl+P → COMO_USAR) para consulta rápida.
+-✅ Sempre comece a sessão ativando as skills relevantes.
+-✅ Combine 3+ skills para resultados exponencialmente melhores.
+-✅ Use @ no Cursor/Claude Code para ativação instantânea.
+-✅ Se o agente "esquecer" o contexto, repita o Prompt Mestre.
+-✅ Mantenha este arquivo aberto (Ctrl+P → COMO_USAR) para consulta rápida.
