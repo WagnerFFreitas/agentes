@@ -29,9 +29,9 @@
 
 [SKILLS MODE ON]
 
-   - Ative todas as skills instaladas com foco em qualidade e boas práticas.
-   - Priorize: alirezarezvani, PeterHdd, Antigravity e web-quality-audit.
-   - Mantenha o contexto ativo durante toda a conversa.
+   Ative todas as skills instaladas com foco em qualidade e boas práticas.
+   Priorize: alirezarezvani, PeterHdd, Antigravity e web-quality-audit.
+   Mantenha o contexto ativo durante toda a conversa.
 
 ### 🌀 No Antigravity
 

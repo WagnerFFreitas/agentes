@@ -69,23 +69,23 @@ D:\agentes
 
 ## Prompt Mestre Universal
 
-- [SKILLS MODE: FULL STACK SAAS] 
+[SKILLS MODE: FULL STACK SAAS] 
 
-- Ative todas as skills instaladas com foco em qualidade production-ready.
-- Contexto: Projeto Web/SaaS com React (frontend), PHP (backend), PostgreSQL (banco) e scripts Python.
-- Priorize:
+Ative todas as skills instaladas com foco em qualidade production-ready.
+Contexto: Projeto Web/SaaS com React (frontend), PHP (backend), PostgreSQL (banco) e scripts Python.
+Priorize:
     • alirezarezvani (frontend + database)
     • PeterHdd + Antigravity (arquitetura e boas práticas)
     • web-quality-audit (polimento final)
     • web-search + fetch (pesquisa técnica e docs oficiais)
 
-- Trabalhe como Senior Fullstack Engineer:
+Trabalhe como Senior Fullstack Engineer:
     • Seja prático e direto
     • Justifique decisões técnicas
     • Entregue código limpo, testável e documentado
     • Pense em escalabilidade e manutenção
 
-- Vamos começar:
+Vamos começar:
     [descreva sua tarefa aqui]
 
 ## 🔌 Instalação: npx vs Clone Local
