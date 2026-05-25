@@ -107,20 +107,15 @@ D:\agentes
 
    1. PeterHdd — Pacote fullstack completo (9 skills)
    npx skills add PeterHdd/agent-skills --all
-
    2. Antigravity — Coleção multi-plataforma
    npx antigravity-awesome-skills --claude
-
    3. alirezarezvani — Frontend + Database avançado
    npx skills add alirezarezvani/claude-skills
-
    4. Addy Osmani — Qualidade e performance frontend
    npx skills add addyosmani/web-quality-skills
-
    5. UI/UX Pro Max — Design premium
    npm install -g uipro-cli
    uipro init --ai all
-
    6. Anthropic Oficiais — Pesquisa, Docs & UI Moderna
    npx skills add anthropics/skills --skill web-search --skill fetch --skill frontend-design --skill theme-factory -y -g
 
