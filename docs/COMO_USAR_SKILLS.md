@@ -1,4 +1,4 @@
-# 🛠️ 1 COMO_USAR_SKILLS.md
+# 🛠️ 1 - COMO_USAR_SKILLS.md
 
 ## Guia prático de ativação e uso das skills nas suas IDEs.
 
@@ -7,9 +7,8 @@
 **Última atualização:** Maio 2026  
 **Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
 
-> 🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
+🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
 
----
 ## 💻 No VSCode, Cursor, Claude Code, Continue & Windsurf
 
 ### Método 1: Ativação via `@` (Recomendado)
@@ -51,14 +50,13 @@
 
 ## 📌 Resumo Rápido de Ativação
 
-| :-------------- | :--------------------------------- | :----------------------- |
 | Ferramenta      | Como Ativar                        | Exemplo                  |
-| :-------------- | :--------------------------------- | :----------------------- |
+| :--- | :---- | :--- |
 | Cursor / Claude | @nome-da-skill                     | @frontend-design         |
 | Continue.dev    | Menção direta ou dropdown "Skills" | "use web-quality-audit"  |
 | Antigravity     | Comando de modo ou flag            | Antigravity Mode FULL ON |
 | Windsurf / Kiro | Menção direta no prompt            | "Ative alirezarezvani"   |
-| :-------------- | :--------------------------------- | :----------------------- |
+
 
 ### 💡Dicas de Ouro
 
