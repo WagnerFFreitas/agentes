@@ -169,24 +169,22 @@ Tarefa:
 
 ### 🏆 Combinações Recomendadas (Cheatsheet)
 
-| :--------------------- | :------------------------------------------------------------------ | 
 | Objetivo               | Skills Recomendadas                                                 | 
-| :--------------------- | :------------------------------------------------------------------ | 
+| :-- | :-- | 
 | Frontend Premium       | frontend-design + theme-factory + web-quality-audit + ui-ux-pro-max |
 | Fullstack Profissional | PeterHdd --all + Antigravity + vercel-labs                          |
 | Lançamento de Feature  | Antigravity Mode ON + next-best-practices + security                |
 | Refatoração            | web-quality-audit + PeterHdd + react-best-practices                 |
 | SaaS Completo          | PeterHdd + Antigravity + alirezarezvani + frontend-design           |
-| :--------------------- | :------------------------------------------------------------------ |
 
 ---
 
 ### 💡 Dicas de Uso
 
-- ✅ Sempre ative no início: Comece o prompt listando as skills que deseja usar.
-- ✅ Combine 3+: Resultados são exponencialmente melhores com 3 ou mais skills ativadas.
-- ✅ Finalize com auditoria: Rode web-quality-audit antes de entregar qualquer feature.
-- ✅ Não sabe qual usar? Consulte DECIDIR_SKILLS.md para ver a combinação exata para sua tarefa.
-- ✅ Mantenha o contexto: Se o agente "esquecer" as rules, repita o Prompt Mestre ou use `@nome-da-skill`.
+   - ✅ Sempre ative no início: Comece o prompt listando as skills que deseja usar.
+   - ✅ Combine 3+: Resultados são exponencialmente melhores com 3 ou mais skills ativadas.
+   - ✅ Finalize com auditoria: Rode web-quality-audit antes de entregar qualquer feature.
+   - ✅ Não sabe qual usar? Consulte DECIDIR_SKILLS.md para ver a combinação exata para sua tarefa.
+   - ✅ Mantenha o contexto: Se o agente "esquecer" as rules, repita o Prompt Mestre ou use `@nome-da-skill`.
 
 ---

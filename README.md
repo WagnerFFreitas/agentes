@@ -89,13 +89,13 @@ Priorize:
    web-search + fetch (pesquisa técnica e docs oficiais)
 
 Trabalhe como Senior Fullstack Engineer:
-    • Seja prático e direto
-    • Justifique decisões técnicas
-    • Entregue código limpo, testável e documentado
-    • Pense em escalabilidade e manutenção
+   Seja prático e direto
+   Justifique decisões técnicas
+   Entregue código limpo, testável e documentado
+   Pense em escalabilidade e manutenção
 
 Vamos começar:
-    [descreva sua tarefa aqui]
+   [descreva sua tarefa aqui]
 
 ---
 
@@ -190,13 +190,13 @@ Vamos começar:
 
 ## 💡 Dicas de Produtividade
 
-- ✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
-- ✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
-- ✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
-- ✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
-- ✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
+ - ✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
+ - ✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
+ - ✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
+ - ✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
+ - ✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
 
-#### "Quais skills você recomenda para esta tarefa específica?"
+   #### "Quais skills você recomenda para esta tarefa específica?"
 
 ---
 
@@ -214,6 +214,6 @@ Vamos começar:
 
 ## 🎯 Dica Final:
 
-- ✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
+   - ✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
 
 ---
