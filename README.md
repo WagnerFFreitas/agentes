@@ -53,7 +53,6 @@ D:\agentes
 
 ## 📂 Arquivos Principais (docs\)
 
-
 | Arquivo                   | Finalidade                                                | Link Rápido                               |
 | :--- | :--- | :--- |
 | SKILLS_LISTA.md           | 📖 Catálogo: o que cada skill faz, quando e como usar     | [Abrir](./docs/SKILLS_LISTA.md)           |
@@ -97,12 +96,10 @@ D:\agentes
 
 ## 🔌 Instalação: npx vs Clone Local
 
-| :------------ | :------------------------------------------------------- | :----------------------------------------------------------------- |
 | Método        | Quando usar                                              | Comando Exemplo                                                    |
-| :------------ | :------------------------------------------------------- | :----------------------------------------------------------------- |
+| :--- | :--- | :--- |
 | Remoto (npx)  | Padrão recomendado. Sempre atualizado, zero manutenção.  | npx skills add PeterHdd/agent-skills --all           ----          |
 | Clone Local   | Offline, modificação de skills, controle de versão exato.| git clone https://github.com/user/repo D:\agentes\repos\ + symlink |
-| :------------ | :------------------------------------------------------- | :----------------------------------------------------------------- |
 
 ## 📖 Guia completo de repositórios: docs/REFERENCIAS.md
 
@@ -129,37 +126,32 @@ D:\agentes
 
 ## 🏆 Top 5 Coleções Mais Recomendadas
 
-| :--------- | :--------------------- | :------------------------------------------------ | :------------ |
+
 | Posição    | Categoria              | Repositório Principal                             | Prioridade    |
-| :--------- | :--------------------- | :------------------------------------------------ | :------------ |
+| :--- | :--- | :--- |
 |   1º       | Skills Gerais          | PeterHdd/agent-skills + Antigravity               | ⭐⭐⭐⭐⭐  |
 |   2º       | Frontend & UI/UX       | addyosmani/web-quality-skills + UI/UX Pro Max     | ⭐⭐⭐⭐⭐  |
 |   3º       | Fullstack Profissional | alirezarezvani/claude-skills + Vercel + Anthropic | ⭐⭐⭐⭐⭐  |
 |   4º       | Segurança              | Eyadkelleh/awesome-claude-skills-security         | ⭐⭐⭐⭐     |
 |   5º       | Qualidade Frontend     | web-quality-audit + core-web-vitals               | ⭐⭐⭐⭐     |
-| :--------- | :--------------------- | :------------------------------------------------ | :------------ |
-
 
 ## 🔗 Repositórios de Referência (Nomes Curtos)
 
 ### 🧠 Skills Gerais & Fullstack
 
-| :--------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
 | Repositório                        | Descrição                                        | Instalação                                     |
-| :--------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
+| :--- | :--- | :--- |
 | PeterHdd/agent-skills              | Pacote fullstack com 9 skills profissionais      | npx skills add PeterHdd/agent-skills --all     |
 | sickn33/antigravity-awesome-skills | Coleção multi-plataforma (Claude, Cursor, etc.)  | npx antigravity-awesome-skills --claude        |
 | alirezarezvani/claude-skills       | Frontend + Database + arquitetura avançada       | npx skills add alirezarezvani/claude-skills    |
 | anthropics/skills                  | Oficial Anthropic                                | Clone + npx skills add                         |
 | vercel-labs/agent-skills           | Focado em Next.js e ecossistema Vercel           | npx skills add vercel-labs/agent-skills        |
 | ComposioHQ/awesome-codex-skills    | Curadoria para Codex/OpenAI                      | npx skills add ComposioHQ/awesome-codex-skills |
-| :--------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
 
 ## 🎨 Frontend & UI/UX
 
-| :----------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
 | Repositório                          | Descrição                                      | Instalação                                     |
-| :----------------------------------- | :--------------------------------------------- | :--------------------------------------------- |
+| :--- | :--- | :--- |
 | addyosmani/web-quality-skills        | Auditoria de qualidade, performance, a11y      | npx skills add addyosmani/web-quality-skills   |
 | nextlevelbuilder/ui-ux-pro-max-skill | UI/UX premium, motion, conversão               | npm install -g uipro-cli + uipro init --ai all |
 | Owl-Listener/designer-skills         | Design system e Figma                          | Clone                                          |
