@@ -2,11 +2,10 @@
 
 ## 📌 **Finalidade:** Centralizar guias, prompts e referências para usar skills de IA de forma profissional em projetos Web + SaaS (React + PHP + Banco de Dados) + Python.  
 
-> 🔄 **Última atualização:** Maio 2026  
-> 👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
+🔄 **Última atualização:** Maio 2026  
+👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
 
 ## 🗺️ Estrutura de Pastas
-
 ```text
 D:\agentes
 ├── .agent/                         # Configs gerais de agentes
@@ -48,9 +47,7 @@ D:\agentes
 ├── skills-lock.json                # 🔒 Registro das skills PeterHdd
 ├── README.md                       # 📖 Índice master do projeto
 └── WARP.md                         # 🌀 Contexto claude-mem
-
 ```
-
 ## 📂 Arquivos Principais (docs\)
 
 | Arquivo                   | Finalidade                                                | Link Rápido                               |
@@ -61,7 +58,6 @@ D:\agentes
 | PROMPTS_PRONTOS.md        | ⚡ Prompts genéricos: Frontend, Fullstack, Segurança, DB  | [Abrir](./docs/PROMPTS_PRONTOS.md)        |
 | PROMPTS_SaaS_React_PHP.md | 🚀 Prompts especializados para React + PHP + SaaS + Python| [Abrir](./docs/PROMPTS_SaaS_React_PHP.md) |
 | REFERENCIAS.md            | 🔗 Lista de repositórios e comandos de instalação         | [Abrir](./docs/REFERENCIAS.md)            |
-
 
 ## 🚀 Quick Start (Comece Aqui)
 
@@ -76,9 +72,7 @@ D:\agentes
 - [SKILLS MODE: FULL STACK SAAS] 
 
 - Ative todas as skills instaladas com foco em qualidade production-ready.
-
 - Contexto: Projeto Web/SaaS com React (frontend), PHP (backend), PostgreSQL (banco) e scripts Python.
-
 - Priorize:
     • alirezarezvani (frontend + database)
     • PeterHdd + Antigravity (arquitetura e boas práticas)
@@ -189,7 +183,7 @@ D:\agentes
 | Backup da pasta docs\    | Semanal              | Use script backup-ai.bat (sugestão)                    |
 | Atualizar repositórios   | Trimestral           | Consulte REFERENCIAS.md e verifique releases no GitHub |
 
-# 🎯 Dica Final:
+## 🎯 Dica Final:
 
-> Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
+- ✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
 

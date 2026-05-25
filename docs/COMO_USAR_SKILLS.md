@@ -1,11 +1,11 @@
-# 🛠️ 1 - COMO_USAR_SKILLS.md
+# 🛠️ COMO_USAR_SKILLS.md
 
 ## Guia prático de ativação e uso das skills nas suas IDEs.
 
 ### **Perfil:** Web + SaaS (React, PHP, Banco de Dados) + Ferramentas Python
 
-**Última atualização:** Maio 2026  
-**Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
+🔄 **Última atualização:** Maio 2026  
+👤 **Local:** `D:\.ai\docs\COMO_USAR_SKILLS.md`
 
 🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
 
@@ -23,7 +23,6 @@
 ### Método 2: Menção Direta no Prompt
 
    - Cite a skill naturalmente no início da conversa:
-
    - Ative frontend-design, theme-factory e web-quality-audit para esta tarefa.
 
 ### Método 3: Prompt Mestre (Início da Sessão)
@@ -56,7 +55,6 @@
 | Continue.dev    | Menção direta ou dropdown "Skills" | "use web-quality-audit"  |
 | Antigravity     | Comando de modo ou flag            | Antigravity Mode FULL ON |
 | Windsurf / Kiro | Menção direta no prompt            | "Ative alirezarezvani"   |
-
 
 ### 💡Dicas de Ouro
 
