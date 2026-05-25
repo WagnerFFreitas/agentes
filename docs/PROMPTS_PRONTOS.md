@@ -17,7 +17,7 @@
    4. **Envie** e aguarde a resposta.
    5. **Finalize** sempre com `web-quality-audit` para polimento de produção.
 
-- 💡 **Dica:** Use `@nome-da-skill` no Cursor/Claude Code para ativar as skills mencionadas antes de colar o prompt.
+💡 **Dica:** Use `@nome-da-skill` no Cursor/Claude Code para ativar as skills mencionadas antes de colar o prompt.
 
 ---
 

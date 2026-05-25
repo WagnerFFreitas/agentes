@@ -190,11 +190,11 @@ Vamos começar:
 
 ## 💡 Dicas de Produtividade
 
--✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
--✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
--✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
--✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
--✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
+- ✅ Atalho Universal: Ctrl+P → digite SKILLS_ ou PROMPTS_ para abrir rápido
+- ✅ **Adicione docs\ ao Workspace**: Clique direito → "Add Folder to Workspace"
+- ✅ **Combine 3+ skills**: O resultado é exponencialmente melhor
+- ✅ **Use web-quality-audit ao finalizar**: Polimento profissional garantido
+- ✅ **Não sabe qual skill usar?** → Consulte DECIDIR_SKILLS.md ou pergunte ao agente:
 
 #### "Quais skills você recomenda para esta tarefa específica?"
 
