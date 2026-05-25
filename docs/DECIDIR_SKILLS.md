@@ -59,12 +59,12 @@
 
 ## 🧭 Regras Práticas de Escolha
 
-Use **1 a 2 skills** quando a tarefa for pequena, isolada ou exploratória.
-Use **3 a 5 skills** quando a entrega envolver interface, backend, banco ou qualidade final.
-Use **auditoria final** (`web-quality-audit`) quando a mudança for para produção, afetar UX, performance, segurança ou fluxo crítico.
-Use **`alirezarezvani`** como curinga para tarefas que combinam frontend e banco de dados.
-Use **`PeterHdd`** como base fullstack para features completas, backend e ferramentas Python.
-Use **`web-quality-audit`** antes de finalizar páginas, componentes visuais e fluxos importantes.
+- Use **1 a 2 skills** quando a tarefa for pequena, isolada ou exploratória.
+- Use **3 a 5 skills** quando a entrega envolver interface, backend, banco ou qualidade final.
+- Use **auditoria final** (`web-quality-audit`) quando a mudança for para produção, afetar UX, performance, segurança ou fluxo crítico.
+- Use **`alirezarezvani`** como curinga para tarefas que combinam frontend e banco de dados.
+- Use **`PeterHdd`** como base fullstack para features completas, backend e ferramentas Python.
+- Use **`web-quality-audit`** antes de finalizar páginas, componentes visuais e fluxos importantes.
 ---
 
 ## 🚀 Prompt Mestre Personalizado
