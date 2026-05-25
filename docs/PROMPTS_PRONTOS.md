@@ -1,8 +1,9 @@
 # ⚡ PROMPTS_PRONTOS.md — Biblioteca de Prompts Genéricos
 
-**Perfil:** Web + SaaS (React, PHP, Banco de Dados) + Python  
-**Última atualização:** Maio 2026  
-**Local:** `D:\.ai\docs\PROMPTS_PRONTOS.md`
+### **Perfil:** Web + SaaS (React, PHP, Banco de Dados) + Python  
+
+🔄 **Última atualização:** Maio 2026  
+👤 **Local:** `D:\.ai\docs\PROMPTS_PRONTOS.md`
 
 🔗 **Veja também:** [PROMPTS_SaaS_React_PHP.md](./docs/PROMPTS_SaaS_React_PHP.md) | [DECIDIR_SKILLS.md](./docs/DECIDIR_SKILLS.md) | [COMO_USAR_SKILLS.md](./docs/COMO_USAR_SKILLS.md)
 
@@ -20,7 +21,7 @@
 
 ---
 
-## 🎨 1. Frontend & UI/UX
+## 🎨 1 - Frontend & UI/UX
 
 ### 🧩 Componente Moderno
 
@@ -64,7 +65,7 @@ Gere uma landing page completa com:
 
 ---
 
-## 🌐 2. Fullstack & SaaS
+## 🌐 2 - Fullstack & SaaS
 
 ### 🏗️ Arquitetura & Implementação
 
@@ -82,7 +83,7 @@ Fquei em Server Components, data fetching eficiente e tipagem estrita.
 
 ---
 
-## 🔍 3. Qualidade, Testes & Performance
+## 🔍 3 - Qualidade, Testes & Performance
 
 ### 📊 Auditoria Completa
 
@@ -99,7 +100,7 @@ Inclua casos de sucesso e falha.
 
 ---
 
-## 🔐 4. Segurança
+## 🔐 4 - Segurança
 
 ### 🛡️ Análise OWASP & Prompt Security
 
@@ -122,7 +123,7 @@ Foquei em vazamento de dados e injeção.
 
 ---
 
-## 🗄️ 5. Banco de Dados
+## 🗄️ 5 - Banco de Dados
 
 ### 📐 Modelagem & Otimização
 
@@ -147,7 +148,7 @@ Sugira índices e alterações de estrutura se necessário.
 
 ---
 
-## 🧠 6. Prompts Gerais (Meta)
+## 🧠 6 - Prompts Gerais (Meta)
 
 ### Modo Sênior
 

@@ -13,7 +13,7 @@
 
 ## 💻 No VSCode, Cursor, Claude Code, Continue & Windsurf
 
-### Método 1: Ativação via `@` (Recomendado)
+### Método 1 - Ativação via `@` (Recomendado)
 
 No chat da IDE, digite `@` seguido do nome da skill:
 
@@ -24,14 +24,14 @@ No chat da IDE, digite `@` seguido do nome da skill:
 
 ---
 
-### Método 2: Menção Direta no Prompt
+### Método 2 - Menção Direta no Prompt
 
    Cite a skill naturalmente no início da conversa:
    Ative frontend-design, theme-factory e web-quality-audit para esta tarefa.
 
 ---
 
-### Método 3: Prompt Mestre (Início da Sessão)
+### Método 3 - Prompt Mestre (Início da Sessão)
 
 [SKILLS MODE ON]
 
