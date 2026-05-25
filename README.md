@@ -5,6 +5,7 @@
 🔄 **Última atualização:** Maio 2026  
 👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
 
+---
 ## 🗺️ Estrutura de Pastas
 ```text
 D:\agentes

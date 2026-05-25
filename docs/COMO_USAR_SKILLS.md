@@ -9,6 +9,8 @@
 
 🔗 **Veja também:** [DECIDIR_SKILLS.md](./DECIDIR_SKILLS.md) | [SKILLS_LISTA.md](./SKILLS_LISTA.md) | [PROMPTS_PRONTOS.md](./PROMPTS_PRONTOS.md)
 
+---
+
 ## 💻 No VSCode, Cursor, Claude Code, Continue & Windsurf
 
 ### Método 1: Ativação via `@` (Recomendado)
