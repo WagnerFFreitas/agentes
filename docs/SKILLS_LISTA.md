@@ -102,7 +102,7 @@
 
 
 | Skill                           | O que faz                             | Quando usar                           | Como ativar                         |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | `engineering-backend-architect` | Estrutura serviços, CLIs e automações | Scripts Python que precisam crescer   | `"use backend-architect"`           |
 | `engineering-ml-engineer`       | Boas práticas para ML e pipelines     | Projetos de machine learning          | `"use engineering-ml-engineer"`     |
 | `engineering-devops-automator`  | Automação de deploy, CI/CD e infra    | Rotinas DevOps e scripts operacionais | `"use engineering-devops-automator"`|
