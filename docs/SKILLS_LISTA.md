@@ -14,7 +14,7 @@
 ## 📍 Diretórios das Skills
 
 | Diretório                      | Uso principal                                                |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- |
 | `D:\agentes\.agents\skills\`   | Base compartilhada com skills gerais instaladas para agentes |
 | `D:\agentes\.claude\skills\`   | Skills disponíveis para Claude Code                          |
 | `D:\agentes\.cursor\skills\`   | Skills disponíveis para Cursor                               |
