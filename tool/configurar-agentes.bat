@@ -2,7 +2,6 @@
 chcp 65001 >nul
 title Configurar Agentes IA - Links Simbólicos
 setlocal enabledelayedexpansion
-
 echo.
 echo =====================================
 echo   CONFIGURANDO AGENTES IA (2026)
@@ -15,7 +14,6 @@ echo REQUISITOS:
 echo • Execute na raiz do NOVO projeto
 echo • Terminal como Administrador OU "Modo Desenvolvedor" ativado no Windows
 echo.
-
 REM Verifica se estamos na raiz de um projeto válido
 if not exist ".git" (
     echo [AVISO] Esta pasta não parece ser um repositório Git.
@@ -23,22 +21,17 @@ if not exist ".git" (
     set /p CONFIRM=
     if /i "!CONFIRM!" neq "S" exit /b
 )
-
-REM Lista de pastas de agentes
-set "AGENT_FOLDERS=.claude .cursor .codex .roo .continue .windsurf .gemini .github .qodo .cline .vscode agentesder .amazonq .opencode .amp .trae .kiro .goose"
-
+REM Lista expandida de pastas de agentes (Incluído .kimi)
+set "AGENT_FOLDERS=.claude .cursor .codex .roo .continue .windsurf .gemini .github .qodo .cline .vscode .agents .amazonq .opencode .amp .trae .kiro .goose .antigravity .qoder .kimi .aider .codebuddy"
 set "CRIADOS=0"
 set "PULADOS=0"
 set "ERROS=0"
-
 echo.
 echo [1/2] Criando links simbólicos...
 echo.
-
 for %%f in (%AGENT_FOLDERS%) do (
     set "ORIGEM=D:\agentes\%%f"
     set "LINK=%%f"
-    
     REM 1. Verifica se a pasta de origem existe em D:\agentes\
     if exist "!ORIGEM!\" (
         REM 2. Verifica se já existe algo no destino
@@ -60,14 +53,12 @@ for %%f in (%AGENT_FOLDERS%) do (
         echo [IGNORAR] !ORIGEM! não encontrada em D:\agentes\
     )
 )
-
 echo.
 echo [2/2] Resumo:
 echo • Links criados:   %CRIADOS%
 echo • Já existiam:     %PULADOS%
 echo • Erros:           %ERROS%
 echo.
-
 if %ERROS% gtr 0 (
     echo [!] Para corrigir erros de permissão:
     echo     1. Abra o terminal como Administrador
@@ -75,7 +66,6 @@ if %ERROS% gtr 0 (
     echo     3. Execute o script novamente
     echo.
 )
-
 echo =====================================
 echo Configuração concluída!
 echo =====================================

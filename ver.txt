@@ -1,0 +1,6 @@
+IGNORAR] D:\agentes\.cline não encontrada em D:\agentes\
+[IGNORAR] D:\agentes\.vscode não encontrada em D:\agentes\
+[IGNORAR] D:\agentes\.aider não encontrada em D:\agentes\
+[IGNORAR] D:\agentes\.amazonq não encontrada em D:\agentes\
+[IGNORAR] D:\agentes\.amp não encontrada em D:\agentes\
+[IGNORAR] D:\agentes\.goose não encontrada em D:\agentes\

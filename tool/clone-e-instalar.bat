@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title Clonar e Instalar Skills
+title Clonar e Instalar Skills (Completo)
 echo ========================================
 echo  CLONAR + INSTALAR SKILLS (2026)
 echo ========================================
@@ -18,7 +18,6 @@ if %errorlevel% neq 0 (
     pause
     exit /b
 )
-
 set REPO_DIR=D:\agentes\repos
 if not exist "%REPO_DIR%" mkdir "%REPO_DIR%"
 cd /d "%REPO_DIR%"
@@ -31,29 +30,25 @@ if not exist "claude-skills-alirezarezvani" git clone https://github.com/alireza
 if not exist "addyosmani-web-quality-skills" git clone https://github.com/addyosmani/web-quality-skills.git >nul
 if not exist "anthropics-skills" git clone https://github.com/anthropics/skills.git >nul
 if not exist "vercel-labs-agent-skills" git clone https://github.com/vercel-labs/agent-skills.git >nul
+if not exist "awesome-design-md" git clone https://github.com/VoltAgent/awesome-design-md.git >nul
 echo. Repositorios prontos.
-
 echo.
+
 echo [PASSO 2] Instalando skills via npx/npm...
 echo.
-
 echo -> PeterHdd (Pacote Fullstack)
 call npx skills add PeterHdd/agent-skills --all
-
 echo.
 echo -> Antigravity (Multi-plataforma)
 call npx antigravity-awesome-skills --claude
-
 echo.
 echo -> alirezarezvani (Frontend + Database)
 call npx skills add alirezarezvani/claude-skills
-
 echo.
 echo -> Addy Osmani (Qualidade Frontend)
 call npx skills add addyosmani/web-quality-skills
-
 echo.
-echo -> Anthropic Oficiais (Web, Fetch, Design, Temas)
+echo -> Anthropic Oficiais (Web, Fetch, Design, Temas, Canvas, Brand)...
 echo -> Instalando web-search...
 call npx skills add anthropics/skills --skill web-search -y -g
 echo -> Instalando fetch...
@@ -62,14 +57,21 @@ echo -> Instalando frontend-design...
 call npx skills add anthropics/skills --skill frontend-design -y -g
 echo -> Instalando theme-factory...
 call npx skills add anthropics/skills --skill theme-factory -y -g
-
+echo -> Instalando canvas-design...
+call npx skills add anthropics/skills --skill canvas-design -y -g
+echo -> Instalando brand-guidelines...
+call npx skills add anthropics/skills --skill brand-guidelines -y -g
 echo.
 echo -> UI/UX Pro Max (Design Premium)
 echo Instalando CLI global...
 call npm install -g uipro-cli
 call uipro init --ai all
-
 echo.
+echo [PASSO 3] Memória Persistente...
+echo -> Instalando claude-mem...
+call npx claude-mem install
+echo.
+
 echo ========================================
 echo  Instalacao finalizada com sucesso!
 echo ========================================

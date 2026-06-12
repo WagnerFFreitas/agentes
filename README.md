@@ -217,3 +217,78 @@ Vamos começar:
    - ✅ Mantenha DECIDIR_SKILLS.md e PROMPTS_SaaS_React_PHP.md abertos durante o desenvolvimento para consulta rápida.
 
 ---
+
+
+***********
+
+# 🧠 Biblioteca de Skills e Agentes IA (Stack 2026)
+
+> 📌 **Finalidade:** Centralizar guias, prompts e ferramentas para desenvolvimento profissional de Web + SaaS (React + PHP + Banco de Dados) + Python e 3D.
+> 🔄 **Última atualização:** Junho 2026
+> 👤 **Perfil:** Wagner — Fullstack Developer focado em qualidade, performance e boas práticas.
+
+---
+
+## 📖 Documentação Principal
+
+A biblioteca foi organizada em **4 arquivos mestres** para facilitar a consulta e manutenção. Cada arquivo cobre um pilar específico do seu workflow:
+
+| Arquivo | Foco Principal | Link Rápido |
+| :--- | :--- | :--- |
+| **`PROMPTS_MASTER.md`** | ⚡ Prompts universais, comandos `@sifuyik` e blocos de código | [Abrir](./docs/PROMPTS_MASTER.md) |
+| **`DESIGN_AND_3D_GUIDE.md`** | 🎨 Regras visuais (Anti-AI Slop), Framer Motion e exemplos 3D | [Abrir](./docs/DESIGN_AND_3D_GUIDE.md) |
+| **`SKILLS_HACKS.md`** | ⚙️ Otimização de tokens, regras do `CLAUDE.md` e hacks avançados | [Abrir](./docs/SKILLS_HACKS.md) |
+| **`SKILLS_MANUAL.md`** |  Catálogo de skills, instalação e matriz de decisão | [Abrir](./docs/SKILLS_MANUAL.md) |
+
+---
+
+## 🗺️ Estrutura de Pastas
+
+```text
+D:\agentes
+├── .agents/ .claude/ .cursor/ ...  # 🧠 Configs e Skills por IDE
+├── docs/                           #  Documentação
+│   ├── PROMPTS_MASTER.md           ← Seu arsenal de prompts
+│   ├── DESIGN_AND_3D_GUIDE.md      ← Padrões visuais e 3D
+│   ├── SKILLS_HACKS.md             ← Dicas de ouro e otimização
+│   └── SKILLS_MANUAL.md            ← Referência de skills
+│
+├── repos/                          # 📦 Repositórios clonados
+├── tool/                           # ️ Scripts de automação
+│   ├── instala.bat                 ← Instala skills via npx
+│   ├── configurar-agentes.bat      ← Cria links no projeto
+│   ├── atualizar-repos.bat         ← Git pull em todos
+│   └── remover-links.bat           ← Limpeza segura
+│
+└── README.md                       # 📖 Este arquivo
+
+🚀 Quick Start (Comece Aqui)
+Configurar Novo Projeto:
+Abra o terminal na raiz do projeto.
+Rode: D:\agentes\tool\configurar-agentes.bat.
+(Isso conecta as skills da D:\agentes ao seu projeto).
+Instalar/Atualizar Skills:
+Rode: D:\agentes\tool\instala.bat.
+(Instala a base Fullstack, UI/UX e skills oficiais da Anthropic).
+Consultar Documentação:
+Use Ctrl+P na sua IDE e busque por PROMPTS ou DESIGN para abrir os guias rápidos.
+🛠️ Ferramentas e Scripts
+Script
+Função
+instala.bat
+Instala skills base (PeterHdd, Antigravity, UI/UX, Anthropic) e Claude-Mem.
+configurar-agentes.bat
+Cria links simbólicos (.claude, .cursor, etc.) na raiz do projeto.
+atualizar-repos.bat
+Atualiza todos os repositórios clonados localmente via git pull.
+remover-links.bat
+Remove links simbólicos com segurança (não apaga dados originais).
+clone-todos.bat
+Baixa todos os repositórios de skills para D:\agentes\repos\.
+💡 Dicas de Produtividade
+✅ Atalho Universal: Ctrl+P → digite PROMPTS ou DESIGN para abrir o guia.
+✅ Combine Skills: Resultados são melhores com 3+ skills ativas (ex: @frontend-design + @web-quality-audit + claude-mem).
+✅ Comandos: Use o sistema @sifuyik (ex: /critic, /stepbystep) para controlar a saída da IA.
+✅ Regras: Mantenha um arquivo CLAUDE.md na raiz do projeto para definir comportamento (Simplicidade, Minimalismo).
+🎯 Dica Final: Mantenha SKILLS_MANUAL.md aberto para decidir qual skill usar e PROMPTS_MASTER.md para copiar o código pronto.
+
