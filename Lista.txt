@@ -1,0 +1,62 @@
+Quais desses repositórios podem melhorar a minha produtividade em desenvolvimento web e software e me auxiliar em testes de segurança, após a criação? As skills e prompts serão usadas para desenvolvimento Front-End, Back-End, Banco de dados (MySQL e PostgreSQL), teste de funcionalidade e teste de segurança para evitar risco de invasão.
+
+https://github.com/Eyadkelleh/awesome-skills-security.git
+https://github.com/github/awesome-copilot.git
+https://github.com/openai/skills.git
+https://github.com/anthropics/skills.git
+https://github.com/upstash/context7.git
+https://github.com/kepano/obsidian-skills.git
+https://github.com/asgeirtj/system_prompts_leaks.git
+https://github.com/thedotmack/claude-mem.git
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+https://github.com/shanraisshan/claude-code-best-practice.git
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git
+https://github.com/sickn33/agentic-awesome-skills.git
+https://github.com/hesreallyhim/awesome-claude-code.git
+https://github.com/obra/superpowers.git
+https://github.com/yamadashy/repomix.git
+https://github.com/guanyang/open-agent-hub.git
+https://github.com/ComposioHQ/awesome-codex-skills.git
+https://github.com/Owl-Listener/designer-skills.git
+https://github.com/AccessLint/skills.git
+https://github.com/supabase/agent-skills.git
+https://github.com/vercel-labs/agent-skills.git
+https://github.com/VoltAgent/awesome-design-md.git
+https://github.com/Kilo-Org/kilocode.git
+https://github.com/PeterHdd/agent-skills.git
+https://github.com/VoltAgent/awesome-agent-skills.git
+https://github.com/addyosmani/web-quality-skills.git
+https://github.com/Jeffallan/claude-skills.git
+https://github.com/sergiodxa/agent-skills.git
+https://github.com/planetscale/database-skills.git
+https://github.com/Leonxlnx/taste-skill.git
+https://github.com/coleam00/excalidraw-diagram-skill.git
+https://github.com/remotion-dev/remotion.git
+https://github.com/remotion-dev/remotion.git
+https://github.com/ComposioHQ/awesome-claude-skills.gi
+https://github.com/coreyhaines31/marketingskills.git
+https://github.com/anthropics/claude-code.git
+https://github.com/awesome-skills/code-review-skill.git
+https://github.com/HamishMW/portfolio.git
+https://github.com/MoonshotAI/kimi-code.git
+https://github.com/RyanCodrai/turbovec.git
+https://github.com/DavidHDev/react-bits.git
+https://github.com/WorldFlowAI/everything-claude-code.git
+
+
+Eu uso a IDE VSCode com as esta extensões de acordo com a necessidade: COPILOT, CLAUDE, CODEX, MIMO, QODER, WINDSURF, CONTINUE, GEMINI ASSIST, TRAE, OPENCODE.
+
+Como posso baixar os repositórios sem que ele conflitem os nomes das pastas? Devido a alguns terem o nome das pastas iguais?
+
+Como instalar as skills e prompt a partir do computador e não do GitHub?
+
+Instalar todas as Skills e prompts selecionadas provocaria alucinações nas respostas de desenvolvimento dos projetos?
+
+As skills que são para o Claude Code ou Antigravity é possível instalar para ser usadas pelo MIMO, COPILOT, CODEX e OPENCODE? Caso sim, como fazer?
+
+Existe outra ia que possa ser usada de forma gratuita no VSCode além das que já tenho? caso sim, qual o processo para instalar?
+
+Todas as extensões de IAs do VSCode que listei podem ser usadas no Antigravity? Caso sim, como devo fazer?
+
+Como instalar as skills dentro da IA MIMO?
+
